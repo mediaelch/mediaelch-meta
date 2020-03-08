@@ -4,6 +4,6 @@
     <version>2.6.2</version>
     <name>Ferenginar</name>
     <released>2020-02-08</released>
-    <downloadUrl>https://mediaelch.github.io/mediaelch-doc/download.html</downloadUrl>
+    <downloadUrl system="generic">https://mediaelch.github.io/mediaelch-doc/download.html</downloadUrl>
   </latestVersion>
 </mediaelch>
