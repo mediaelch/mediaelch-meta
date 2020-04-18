@@ -1,2 +1,3 @@
 # mediaelch-meta
-MediaElch Metadata Repository
+
+MediaElch Metadata Repository. Contains version information, etc.
