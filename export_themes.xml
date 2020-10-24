@@ -35,6 +35,24 @@
     </supports>
   </theme>
   <theme>
+    <name>Hidaya Theme</name>
+    <identifier>hidaya</identifier>
+    <description>beautiful theme</description>
+    <description lang="de">Schönes Theme</description>
+    <author>Friedrich Weise, Felix Bühler</author>
+    <website>https://github.com/Stunkymonkey/hidaya</website>
+    <file>https://github.com/Stunkymonkey/hidaya/archive/1.0.zip</file>
+    <checksum format="sha256">9981aa18ee0a896c031762e96b12503823971e10b4027a953871d8be612606cc</checksum>
+    <version>1.0</version>
+    <mediaelch-min>2.6.7</mediaelch-min>
+    <engine>simple</engine>
+    <supports>
+      <section>movies</section>
+      <section>tvshows</section>
+      <section>concerts</section>
+    </supports>
+  </theme>
+  <theme>
     <name>Dummy Theme</name>
     <identifier>dummy</identifier>
     <website>https://github.com/mediaelch/mediaelch-theme-dummy</website>
