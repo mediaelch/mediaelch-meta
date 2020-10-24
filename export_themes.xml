@@ -42,7 +42,7 @@
     <author>Friedrich Weise, Felix Bühler</author>
     <website>https://github.com/Stunkymonkey/hidaya</website>
     <file>https://github.com/Stunkymonkey/hidaya/archive/1.0.zip</file>
-    <checksum format="sha256">9981aa18ee0a896c031762e96b12503823971e10b4027a953871d8be612606cc</checksum>
+    <checksum format="sha256">ea76c66360f42621e59244565bdd014d70dd7202d7f4457ed361051e8faef148</checksum>
     <version>1.0</version>
     <mediaelch-min>2.6.7</mediaelch-min>
     <engine>simple</engine>
