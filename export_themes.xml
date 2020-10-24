@@ -37,8 +37,8 @@
   <theme>
     <name>Hidaya Theme</name>
     <identifier>hidaya</identifier>
-    <description>beautiful theme</description>
-    <description lang="de">Schönes Theme</description>
+    <description>dark theme with search functionality</description>
+    <description lang="de">dunkles Thema mit Suchfunktionalität</description>
     <author>Friedrich Weise, Felix Bühler</author>
     <website>https://github.com/Stunkymonkey/hidaya</website>
     <file>https://github.com/Stunkymonkey/hidaya/archive/1.0.zip</file>
