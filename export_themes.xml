@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<themes>
+  <theme>
+    <name>MediaElch</name>
+    <identifier>mediaelch-default</identifier>
+    <description>MediaElch default theme</description>
+    <description lang="de">MediaElch Standard Theme</description>
+    <author>Daniel Kabel</author>
+    <file>https://github.com/mediaelch/mediaelch-theme-default/archive/v1.0.zip</file>
+    <checksum format="sha256">676556f88e57fbb48653240f169e6660e304ece5d79e814b6a03f13e37f442c6</checksum>
+    <version>1.0</version>
+    <mediaelch-min>2.6.6</mediaelch-min>
+    <engine>simple</engine>
+    <supports>
+      <section>movies</section>
+      <section>tvshows</section>
+      <section>concerts</section>
+    </supports>
+  </theme>
+  <theme>
+    <name>DigitalRabbit - Datatables</name>
+    <identifier>digitalrabbit_datatables</identifier>
+    <description>DigitalRabbit - Datatable theme</description>
+    <description lang="de">DigitalRabbit - Datatable Theme</description>
+    <author>Jason H Doucette</author>
+    <file>https://github.com/mediaelch/mediaelch-theme-digitalrabbit-datatables/archive/v1.0.zip</file>
+    <checksum format="sha256">74927eb371aead089ce5c94cf8cf5b9ee3fba424b5f1813dd813161bfc0e618f</checksum>
+    <version>1.0</version>
+    <mediaelch-min>2.6.6</mediaelch-min>
+    <engine>simple</engine>
+    <supports>
+      <section>movies</section>
+    </supports>
+  </theme>
+  <theme>
+    <name>Dummy Theme</name>
+    <identifier>dummy</identifier>
+    <description>This theme should not be used for exporting. It's basically for developers to show off all available options.</description>
+    <description lang="de">Dieses Theme sollte nicht für einen Export benutzt werden. Es ist in erster Linie für Entwickler gedacht und stellt alle zur Verfügung stehenden Optionen dar.</description>
+    <author>Daniel Kabel</author>
+    <file>https://github.com/mediaelch/mediaelch-theme-dummy/archive/v1.1.zip</file>
+    <checksum format="sha256">92e0c96c668a105a7ea87ba8ba18f5d9816e60d8edc411a19769e08fbce17650</checksum>
+    <version>1.1</version>
+    <mediaelch-min>2.6.6</mediaelch-min>
+    <engine>simple</engine>
+    <supports>
+      <section>movies</section>
+      <section>tvshows</section>
+      <section>concerts</section>
+    </supports>
+  </theme>
+</themes>
