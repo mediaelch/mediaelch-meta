@@ -7,9 +7,9 @@
     <description>MediaElch default theme</description>
     <description lang="de">MediaElch Standard Theme</description>
     <author>Daniel Kabel</author>
-    <file>https://github.com/mediaelch/mediaelch-theme-default/archive/v1.0.zip</file>
-    <checksum format="sha256">676556f88e57fbb48653240f169e6660e304ece5d79e814b6a03f13e37f442c6</checksum>
-    <version>1.0</version>
+    <file>https://github.com/mediaelch/mediaelch-theme-default/archive/v1.1.zip</file>
+    <checksum format="sha256">44d2594a169a454ae7f8b0bda829657444080d2361f9a327b122743d93a344c0</checksum>
+    <version>1.1</version>
     <mediaelch-min>2.6.6</mediaelch-min>
     <engine>simple</engine>
     <supports>
