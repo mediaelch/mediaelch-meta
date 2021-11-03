@@ -41,9 +41,9 @@
     <description lang="de">dunkles Thema mit Suchfunktionalität</description>
     <author>Friedrich Weise, Felix Bühler</author>
     <website>https://github.com/Stunkymonkey/hidaya</website>
-    <file>https://github.com/Stunkymonkey/hidaya/archive/1.0.zip</file>
-    <checksum format="sha256">ea76c66360f42621e59244565bdd014d70dd7202d7f4457ed361051e8faef148</checksum>
-    <version>1.0</version>
+    <file>https://github.com/Stunkymonkey/hidaya/archive/1.1.zip</file>
+    <checksum format="sha256">df38ee82993e9df294f9d2242c859b708cceaae02d4ecbdc1adfefb6f8fd9ee9</checksum>
+    <version>1.1</version>
     <mediaelch-min>2.6.7</mediaelch-min>
     <engine>simple</engine>
     <supports>
