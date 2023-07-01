@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <mediaelch>
   <latestVersion>
-    <version>2.10.0</version>
+    <version>2.10.2</version>
     <name>Benzar</name>
-    <released>2023-02-05</released>
+    <released>2023-07-01</released>
     <downloadUrl system="generic">https://mediaelch.github.io/mediaelch-doc/download.html</downloadUrl>
+    <downloadUrl system="linux">https://mediaelch.github.io/mediaelch-doc/download/linux.html</downloadUrl>
+    <downloadUrl system="mac">https://mediaelch.github.io/mediaelch-doc/download/macOS.html</downloadUrl>
+    <downloadUrl system="win">https://mediaelch.github.io/mediaelch-doc/download/windows.html</downloadUrl>
   </latestVersion>
 </mediaelch>
